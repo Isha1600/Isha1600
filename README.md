@@ -54,4 +54,4 @@
 
 ---
 
-⚡ *“I love combining mathematics with creativity—whether it’s modeling biological systems or building smart, data-driven dashboards.”*
+⚡ *“I love combining mathematics with creativity—whether it’s modeling systems or building smart, data-driven dashboards.”*
