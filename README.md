@@ -1,22 +1,22 @@
-# 👩‍💻 Isha Gupta  
+# 👩‍💻 Isha Gupta
 ### Data Science | Machine Learning | Applied Mathematics  
 
 🎓 M.Sc. Mathematics graduate with strong foundations in mathematical modeling, optimization, and computational methods.  
-💡 I leverage mathematics, statistics, and programming to build data-driven and intelligent solutions.  
-🌱 Currently strengthening my skills in Python, Object-Oriented Programming, Data Science foundations, and Machine Learning.  
-📌 Open to opportunities in Data Science, Machine Learning, AI, and Analytics roles.  
+💡 I leverage mathematics, statistics, and programming to build data-driven intelligent systems.  
+🌱 Currently strengthening expertise in Python, OOP, Data Science, and Machine Learning.  
+📌 Open to opportunities in Data Science, ML, AI, and Analytics roles.
 
 ---
 
-## 🔹 Technical Skills
+## 🔹 Technical Skills  
 
-### 💻 Programming
-Python | R | SQL | MATLAB  
+### 💻 Programming  
+Python • R • SQL • MATLAB  
 
-### 📚 Libraries & Frameworks
-NumPy | Pandas | Scikit-learn | TensorFlow | PyTorch | Matplotlib  
+### 📚 Libraries & Frameworks  
+NumPy • Pandas • Scikit-learn • TensorFlow • PyTorch • Matplotlib  
 
-### 📊 Core Competencies
+### 📊 Core Competencies  
 - Data Analysis & Visualization  
 - Predictive Modeling  
 - Optimization Techniques  
@@ -25,54 +25,60 @@ NumPy | Pandas | Scikit-learn | TensorFlow | PyTorch | Matplotlib
 
 ---
 
-## 🔹 Research Experience
+## 🔹 Research Experience  
 
 ### 🏛 Research Intern – IIT Indore  
-- Conducted mathematical modeling and numerical simulations in biomedical applications  
-- Worked on PDE-based heat transfer modeling in biological tissues  
-- Applied interdisciplinary problem-solving and computational techniques  
+- Mathematical modeling & numerical simulations in biomedical applications  
+- PDE-based heat transfer modeling in biological tissues  
+- Applied computational & interdisciplinary problem-solving techniques  
 
 ---
 
-## 🔹 Featured Projects
+## 🔹 Featured Projects  
 
 ### 📌 Gradient-Based Interval Optimization  
-*(Master’s Dissertation – JIIT)*  
-Developed an optimization framework using interval analysis and gradient-based techniques to improve decision-making under uncertainty.  
+**Master’s Dissertation – JIIT**  
+Developed an optimization framework using interval analysis and gradient-based techniques for decision-making under uncertainty.  
 **Tools:** Python, MATLAB  
 
 ### 🔬 Biomedical Heat Transfer Modeling  
-*(Research – IIT Indore)*  
-Built PDE-based models to simulate temperature distribution in biological tissues under electromagnetic exposure for hyperthermia treatment optimization.  
+**Research – IIT Indore**  
+Built PDE-based models simulating temperature distribution in biological tissues under electromagnetic exposure for hyperthermia optimization.  
 **Tools:** MATLAB  
 
 ### 🤖 Fine-Tuning Large Language Models  
-*(DeepLearning.AI – Coursera)*  
-Applied transfer learning and domain adaptation techniques to fine-tune transformer-based NLP models for text classification tasks.  
+**DeepLearning.AI – Coursera**  
+Applied transfer learning and domain adaptation to fine-tune transformer-based NLP models for classification tasks.  
 **Tools:** TensorFlow, PyTorch  
 
 ---
 
-## 🔹 Current Learning Roadmap
+## 🔹 Ongoing Development & Upcoming Projects  
 
-- 🟢 Object-Oriented Programming (OOP)  
-- 🔵 Data Science Foundations  
-- 🟣 Advanced Python & Problem Solving  
-- 🤖 End-to-End Machine Learning Projects  
-- 🧠 AI & NLP with Transformers  
+### 📚 Currently Strengthening  
+- Object-Oriented Programming (OOP)  
+- Advanced Python & Problem Solving  
+- Data Science Foundations  
+- Machine Learning Theory & Implementation  
+
+### 🚀 Upcoming Projects  
+- End-to-End Machine Learning Pipeline  
+- Optimization-Based ML Model  
+- NLP with Transformer Models  
+- Applied Mathematical Modeling in AI  
 
 ---
 
-## 🔹 Certifications
+## 🔹 Certifications  
 
-- Machine Learning – Stanford & DeepLearning.AI (Coursera)  
+- Machine Learning – Stanford & DeepLearning.AI  
 - Python for Data Science, AI & Development – IBM  
-- Power BI, SQL Essential Training – LinkedIn Learning  
+- Power BI & SQL Essential Training – LinkedIn Learning  
 - AI for Entrepreneurship – Intel & NSDC  
 
 ---
 
-## 🔹 Connect With Me
+## 🔹 Connect With Me  
 
 📧 Email: ig.ishagupta.16@gmail.com  
 🔗 LinkedIn: linkedin.com/in/isha-gupta0106  
