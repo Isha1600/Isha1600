@@ -36,6 +36,14 @@ NumPy • Pandas • Scikit-learn • TensorFlow • PyTorch • Matplotlib
 
 ## 🔹 Featured Projects  
 
+### 📊 Online Retail Exploratory Data Analysis
+Exploratory data analysis of retail transaction data to identify purchasing trends and customer behavior.
+
+🔧 Tools: Python, Pandas, Matplotlib, Seaborn  
+🔗 GitHub: https://github.com/Isha1600/Online_Retail_EDA
+
+---
+
 ### 📌 Gradient-Based Interval Optimization  
 **Master’s Dissertation – JIIT**  
 Developed an optimization framework using interval analysis and gradient-based techniques for decision-making under uncertainty.  
