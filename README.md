@@ -11,7 +11,7 @@
 ## 🔹 Technical Skills  
 
 ### 💻 Programming  
-Python • R • SQL • MATLAB  
+Python • R • SQL • MATLAB • R Programming
 
 ### 📚 Libraries & Frameworks  
 NumPy • Pandas • Scikit-learn • TensorFlow • PyTorch • Matplotlib  
