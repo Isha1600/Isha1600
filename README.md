@@ -97,8 +97,8 @@ Applied transfer learning and domain adaptation to fine-tune transformer-based N
 ## 🔹 Connect With Me  
 
 📧 Email: ig.ishagupta.16@gmail.com  
-🔗 LinkedIn: linkedin.com/in/isha-gupta0106  
-🔗 GitHub: github.com/Isha1600  
+🔗 LinkedIn: [linkedin.com/in/isha-gupta0106](https://www.linkedin.com/in/isha-gupta0106/)  
+🔗 GitHub: [github.com/Isha1600](https://github.com/Isha1600)  
 
 ---
 
